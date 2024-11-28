@@ -14,6 +14,7 @@ namespace Matematicas {
 
 
 int main() {
+    //Llamamos a el namespace de matematicas, y usamos las funciones de suma y resta dentro de este namespace.
     Matematicas::suma (5, 3);
     Matematicas::resta (5, 3);
 
